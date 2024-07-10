@@ -1,3 +1,5 @@
 venv/
 __pyche__
 node_modules
+bike_rental\db.sqlite3
+bike_rental\data.json
