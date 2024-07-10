@@ -12,7 +12,7 @@ Git: Для клонирования репозитория проекта, ес
 
 git clone https://github.com/MikleJaxon/test_bike_rent
 
-cd bike_rental
+cd test_bike_rent/bike_rental
 
 3. Установка зависимостей
 
