@@ -43,7 +43,7 @@ docker-compose up --build
 
 /admin/ - Админ-панель Django
 
-/api/swagger/ - Swagger документация
+/api/api/swagger/ - Swagger документация
 
 /api/register/ - Регистрация пользователя
 
