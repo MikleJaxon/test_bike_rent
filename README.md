@@ -11,6 +11,7 @@ Git: Для клонирования репозитория проекта, ес
 2. Клонирование проекта
 
 git clone https://github.com/MikleJaxon/test_bike_rent
+
 cd bike_rental
 
 3. Установка зависимостей
